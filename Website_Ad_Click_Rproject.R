@@ -315,12 +315,15 @@ rocperformance
 plot(rocperformance, col='red', print.cutoffs.at=seq(0.1, by=.1))
 abline(a=0,b=1)
 
-###Business Recommendation####
+################################## Business Recommendation ###################################################
 #We can see that more people aged between 30 to 40 are spending more time on site daily. 
 #We can give more advertisement related to discounts to the people between 50 to 60 in order to generate more revenue for the organisation.
 #User tends to click on a Ad later in a day or probably early in the morning.
-#It is expected based on the age feature that most people are working so it seems appropriate as they either find time early or late in the day. Also Sunday seems to be effective for clicking on a ad from the bar chart. 
+#It is expected based on the age feature that most people are working so it seems appropriate as they either find time early or late in the day.
+#Also Sunday seems to be effective for clicking on a ad from the bar chart. 
 #The area income of users ranges between $13,996.50 - $79,484.80. Quite a large distribution of incomes. This tells us that site visitors hail from various social classes.
 
 
-#############################################################################
+####################################################################################################################################################################
+######################################################################## LOGISTIC REGRESSION MODEL #################################################################
+####################################################################################################################################################################
