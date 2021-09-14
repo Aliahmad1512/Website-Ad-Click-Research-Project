@@ -4,3 +4,12 @@ The goal of the case study is to Predict who is likely going to click on the adv
 Link To YouTube video:
 https://www.youtube.com/watch?v=oznMa-jSaDc
 
+Website Ad Click | Data Analytics | Case Study | R | Ali Ahmad | IvyProSchool
+
+#WEBSITE AD CLICK
+#DataAnalytics  
+#BusinessAnalytics 
+#IvyPro 
+#CaseStudy 
+#ResearchProject
+
