@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=oznMa-jSaDc
 
 Website Ad Click | Data Analytics | Case Study | R | Ali Ahmad | IvyProSchool
 
-#WEBSITE AD CLICK
+#Website Ad Click
 #DataAnalytics  
 #BusinessAnalytics 
 #IvyPro 
