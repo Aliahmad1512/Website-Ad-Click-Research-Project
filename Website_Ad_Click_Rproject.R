@@ -299,7 +299,7 @@ library(faraway)
 library(car)
 
 vif(classifier1)
-
+# So no multicollinearity found
 
 # Now ROC and AUC for the Sigmoid curve
 # ROC curve plots the true positive rate against false positive rate
